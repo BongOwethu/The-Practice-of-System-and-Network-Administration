@@ -29,6 +29,7 @@ Other books tell you what commands to type. This book teaches you the cross-plat
 - Does your corporate Change Review Board terrify you?
 - Does each division of your company have their own broken way of doing things?
 - Do you fear that automation will replace you, or break more than it fixes?
--Are you underpaid and overworked?
+- Are you underpaid and overworked?
+
 💙 No vague management speak or empty platitudes. This comprehensive guide provides real solutions that prevent these problems and more!
 
