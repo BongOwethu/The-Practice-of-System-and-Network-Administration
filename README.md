@@ -54,7 +54,7 @@ The Practice of Cloud System Administration, Volume 2, focuses on “distributed
 - Make systems that are resilient to failure and grow and scale dynamically
 - Implement DevOps principles and cultural changes
 - IaaS/PaaS/SaaS and virtual platform selection
-- 
+
 ### Operating and running systems using the latest DevOps/SRE strategies ☑️
 - Upgrade production systems with zero down-time
 - What and how to automate; how to decide what not to automate
